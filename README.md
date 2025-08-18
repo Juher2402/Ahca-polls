@@ -18,3 +18,5 @@ Key performance indicators (KPIs) for quick decision-making.
 Trend analysis with charts and graphs.
 
 Export options for reporting and presentations.
+
+<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/6b2637da-7022-4dcb-ad68-dd26488598ab" />
