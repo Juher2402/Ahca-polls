@@ -1,22 +1,29 @@
-# American Health Care Act Polls
+AHCA Dashboard 📊
 
-This folder contains the data behind the story [Why The GOP Is So Hell-Bent On Passing An Unpopular Health Care Bill](https://fivethirtyeight.com/features/why-the-gop-is-so-hell-bent-on-passing-an-unpopular-health-care-bill).
+📌 Overview
 
-📊 Project Overview
+This repository contains an interactive Power BI dashboard built to analyze and visualize AHCA-related data.
 
-This repository contains an interactive Power BI dashboard designed to analyze and visualize data related to [insert your domain: e.g., healthcare, finance, sales, etc.].
-The dashboard provides insights into key performance indicators (KPIs), trends, and comparisons to help stakeholders make data-driven decisions.
+The dashboard provides actionable insights into key performance indicators (KPIs), trends, and metrics to support better decision-making.
 
 🚀 Features
 
-Interactive filters and slicers for dynamic data exploration.
+Overview of key metrics at a glance
 
-Visual representation of [e.g., patient data, costs, outcomes, etc.]
+Trend analysis over time
 
-Key performance indicators (KPIs) for quick decision-making.
+Comparisons by category, region, or department
 
-Trend analysis with charts and graphs.
+Dynamic filters and slicers for interactive analysis
 
-Export options for reporting and presentations.
+Clean and user-friendly visualization design
+
+🛠️ Tools & Technologies
+
+Power BI Desktop
+
+Dataset: AHCA dataset (CSV/Excel/Database – specify your source)
+
+Data Transformation: Power Query & DAX
 
 <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/6b2637da-7022-4dcb-ad68-dd26488598ab" />
