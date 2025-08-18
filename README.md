@@ -5,6 +5,7 @@ This folder contains the data behind the story [Why The GOP Is So Hell-Bent On P
 
 This repository contains an interactive Power BI dashboard designed to analyze and visualize data related to [insert your domain: e.g., healthcare, finance, sales, etc.].
 The dashboard provides insights into key performance indicators (KPIs), trends, and comparisons to help stakeholders make data-driven decisions.
+
 🚀 Features
 
 Interactive filters and slicers for dynamic data exploration
