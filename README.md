@@ -8,8 +8,8 @@ The dashboard provides insights into key performance indicators (KPIs), trends, 
 
 🚀 Features
 
-Interactive filters and slicers for dynamic data exploration
+Interactive filters and slicers for dynamic data exploration.
 Visual representation of [e.g., patient data, costs, outcomes, etc.]
-Key performance indicators (KPIs) for quick decision-making
-Trend analysis with charts and graphs
-Export options for reporting and presentations
+Key performance indicators (KPIs) for quick decision-making.
+Trend analysis with charts and graphs.
+Export options for reporting and presentations.
