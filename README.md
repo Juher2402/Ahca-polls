@@ -26,4 +26,8 @@ Dataset: AHCA dataset (CSV/Excel/Database – specify your source)
 
 Data Transformation: Power Query & DAX
 
+📢 Author
+
+Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+
 <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/6b2637da-7022-4dcb-ad68-dd26488598ab" />
